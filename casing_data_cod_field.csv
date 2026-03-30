@@ -1,0 +1,30 @@
+Wellbore,Casing type,Casing diameter [in],Casing depth [m],Hole diameter [in],Hole depth [m],LOT/FIT mud eqv. [g/cm3],Formation test type
+7/11-1,Conductor,30.0,140.0,36.0,140.0,,
+7/11-1,Surface Casing,30.0,141.0,36.0,141.0,,
+7/11-1,Surface Casing,20.0,457.0,26.0,457.0,,
+7/11-1,Intermediate Casing,20.0,457.0,26.0,463.0,,
+7/11-1,Intermediate Casing,13.375,1964.1,17.5,1964.1,1.61,FIT
+7/11-1,Production Casing,9.625,3124.0,12.25,3124.0,,
+7/11-1,Intermediate Casing,9.625,3148.6,12.25,3148.6,1.44,FIT
+7/11-1,Liner,7.0,3970.7,8.5,3970.7,,
+7/11-2,Conductor,30.0,132.0,36.0,132.0,,
+7/11-2,Surface Casing,30.0,133.0,36.0,133.0,,
+7/11-2,Conductor,20.0,483.7,,483.7,,
+7/11-2,Surface Casing,20.0,484.0,26.0,484.0,,
+7/11-2,Intermediate Casing,20.0,484.0,26.0,518.0,,
+7/11-2,Surface Casing,13.375,1940.0,,1940.0,,
+7/11-2,Intermediate Casing,13.375,1945.0,17.5,1981.2,,
+7/11-2,Production Casing,9.625,3203.0,12.25,3427.0,,
+7/11-2,Intermediate Casing,9.625,3204.0,12.25,3428.0,,
+7/11-3,Conductor,20.0,172.0,26.0,172.0,,
+7/11-3,Surface Casing,13.375,496.0,17.5,496.0,,
+7/11-3,Intermediate Casing,13.375,496.0,17.5,511.0,,
+7/11-3,Intermediate Casing,9.625,1972.8,12.25,1981.2,1.22,FIT
+7/11-3,Production Casing,7.0,3339.4,8.5,3339.4,1.34,FIT
+7/11-7,Conductor,30.0,82.0,36.0,82.0,,
+7/11-7,Surface Casing,20.0,603.0,26.0,603.0,,
+7/11-7,Intermediate Casing,16.0,1379.2,,1390.0,1.7,LOT
+7/11-7,Intermediate Casing,13.375,3156.0,17.5,3158.0,1.8,LOT
+7/11-7,Production Casing,9.625,3400.0,12.25,3400.0,,
+7/11-7,Intermediate Casing,9.625,3492.8,12.25,3489.0,1.83,LOT
+7/11-7,Liner,7.0,4005.0,8.5,4005.0,,
